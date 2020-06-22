@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot-01-helloworld/boot-01-helloworld.iml" filepath="$PROJECT_DIR$/boot-01-helloworld/boot-01-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-02-config/boot-02-config.iml" filepath="$PROJECT_DIR$/boot-02-config/boot-02-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-02-config-02/boot-02-config-02.iml" filepath="$PROJECT_DIR$/boot-02-config-02/boot-02-config-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-03-logger/boot-02-logger.iml" filepath="$PROJECT_DIR$/boot-03-logger/boot-02-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-04-web-restfulcrud/boot-04-web-restfulcrud.iml" filepath="$PROJECT_DIR$/boot-04-web-restfulcrud/boot-04-web-restfulcrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-05-data-jdbc/boot-06-data-jdbc.iml" filepath="$PROJECT_DIR$/boot-05-data-jdbc/boot-06-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn-springboot.iml" filepath="$PROJECT_DIR$/.idea/learn-springboot.iml" />
+    </modules>
+  </component>
+</project>
