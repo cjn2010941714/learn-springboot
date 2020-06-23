@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="boot-06-data-mybatis" />
         <module name="boot-02-logger" />
         <module name="boot-04-web-restfulcrud" />
         <module name="boot-02-config-02" />
@@ -23,6 +24,7 @@
       <module name="boot-04-web-restfulcrud" target="1.8" />
       <module name="boot-05-data-jdbc" target="1.8" />
       <module name="boot-06-data-jdbc" target="1.8" />
+      <module name="boot-06-data-mybatis" target="1.8" />
       <module name="spring-boot-01-helloworld" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -36,6 +38,7 @@
       <module name="boot-04-web-restfulcrud" options="-parameters" />
       <module name="boot-05-data-jdbc" options="-parameters" />
       <module name="boot-06-data-jdbc" options="-parameters" />
+      <module name="boot-06-data-mybatis" options="-parameters" />
       <module name="spring-boot-01-helloworld" options="-parameters" />
     </option>
   </component>

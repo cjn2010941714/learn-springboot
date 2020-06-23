@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/boot-03-logger/boot-02-logger.iml" filepath="$PROJECT_DIR$/boot-03-logger/boot-02-logger.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-04-web-restfulcrud/boot-04-web-restfulcrud.iml" filepath="$PROJECT_DIR$/boot-04-web-restfulcrud/boot-04-web-restfulcrud.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-05-data-jdbc/boot-06-data-jdbc.iml" filepath="$PROJECT_DIR$/boot-05-data-jdbc/boot-06-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-06-data-mybatis/boot-06-data-mybatis.iml" filepath="$PROJECT_DIR$/boot-06-data-mybatis/boot-06-data-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learn-springboot.iml" filepath="$PROJECT_DIR$/.idea/learn-springboot.iml" />
     </modules>
   </component>
